@@ -46,7 +46,7 @@
 | 7	| Decision Tree Classifier |	Random oversampling |	1.000000 |	0.999929 |	0.999964 |	0.999994 |	0.999997 |
 | 8	| Decision Tree Classifier |	Smote oversampling |	1.000000 |	0.999786 |	0.999893 |	0.999981 |	0.999990 |
 | 9	| Decision Tree Classifier |	Borderline smote oversampling |	1.000000 |	0.999288 |	0.999644 |	0.999938 |	0.999966 |
-| 10	| Decision Tree Classifier |	Adasyn oversampling |	1.000000 |	0.999145 |	0.999572 | |	0.999925 |	0.999959 |
+| 10	| Decision Tree Classifier |	Adasyn oversampling |	1.000000 |	0.999145 |	0.999572 | 	0.999925 |	0.999959 |
 | 11	| Decision Tree Classifier |	Class weight |	1.000000 |	0.999929 |	0.999964 |	0.999994 |	0.999997 |
 | 12	| K Neighbors Classifier |	No |	0.965920 |	0.979114 |	0.972472 |	0.995206 |	0.998918 |
 | 13	| K Neighbors Classifier |	Random oversampling |	0.992870 |	0.929950 |	0.960381 |	0.992819 |	0.997750 |
